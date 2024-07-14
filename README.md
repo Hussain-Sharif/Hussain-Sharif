@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sk.Hussain Sharif</h1>
-<h3 align="center">A passionate to build something with fun</h3>
-<img align="right" alt="coding" width="400" src="./GIF_Coding.png">
+<h3 align="center">A passionate to build and solve problems</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/0a/ed/4d/0aed4dabdce3c33b543868ac341c64f5.jpg">
 
 
-- 🔭 I’m currently working on **Frontend Stuff**
+- 🔭 I’m currently working on **Personal Full Stack Project**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 Reachout to me at **99sharif00@gmail.com**
 
